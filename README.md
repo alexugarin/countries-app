@@ -1,6 +1,6 @@
 # Где посмотреть результат
 
-[https://countries-beztg5rik-alexugarins-projects.vercel.app/](https://countries-o3usyda3d-alexugarins-projects.vercel.app/)
+https://countries-app-git-main-alexugarins-projects.vercel.app/
 
 # Задание
 
