@@ -188,7 +188,7 @@ body {
       flex-wrap: wrap;
       gap: 75px;
       flex-direction: row;
-      justify-content: space-between;
+      justify-content: flex-start;
       .card {
         margin: 0 0 40px 0;
       }
